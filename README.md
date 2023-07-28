@@ -1,0 +1,1 @@
+ This directory contains 0x11. C - printf project which aims to create a custom implementation of the printf function in C. The standard printf function is a powerful tool for printing formatted output, and this project seeks to replicate its functionality while providing insights into the underlying mechanisms.
